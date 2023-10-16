@@ -1,0 +1,14 @@
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\bin\Debug\net7.0\Practica_EDD_2.exe
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\bin\Debug\net7.0\Practica_EDD_2.deps.json
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\bin\Debug\net7.0\Practica_EDD_2.runtimeconfig.json
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\bin\Debug\net7.0\Practica_EDD_2.dll
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\bin\Debug\net7.0\Practica_EDD_2.pdb
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\obj\Debug\net7.0\Practica_EDD_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\obj\Debug\net7.0\Practica_EDD_2.AssemblyInfoInputs.cache
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\obj\Debug\net7.0\Practica_EDD_2.AssemblyInfo.cs
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\obj\Debug\net7.0\Practica_EDD_2.csproj.CoreCompileInputs.cache
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\obj\Debug\net7.0\Practica_EDD_2.dll
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\obj\Debug\net7.0\refint\Practica_EDD_2.dll
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\obj\Debug\net7.0\Practica_EDD_2.pdb
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\obj\Debug\net7.0\Practica_EDD_2.genruntimeconfig.cache
+C:\Users\canto\source\repos\Practica_EDD_2\Practica_EDD_2\obj\Debug\net7.0\ref\Practica_EDD_2.dll
